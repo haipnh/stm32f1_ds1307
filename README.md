@@ -1,6 +1,6 @@
 # stm32f1_ds1307
 
-Important procedure : 
+Instruction : 
 1. Initialize with CubeMX : 
    - RCC, SYS
    - I2C with RX Interrupt
