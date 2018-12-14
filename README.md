@@ -9,4 +9,4 @@ Important procedure :
 2. Include "ds1307.h" and add existing "ds1307.c".
 3. Create variable with DateTime_TypeDef in "main.c" and call functions.
 
-Figure out more in included KeilC project.
+Figure out more in included CubeMX and KeilC project.
